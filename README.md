@@ -8,6 +8,7 @@
 * Microsoft Academy MVA: JSON in C# </br>
 * Microsoft Academy MVA: Programming in C# </br>
 * Microsoft Academy MVA: C# Fundamentals </br>
+
 * PluralSight: C# Unit Testing For Enterprise Applications </br>
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
