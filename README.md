@@ -10,6 +10,8 @@
 * Microsoft Academy MVA: C# Fundamentals </br>
 
 * PluralSight: C# Unit Testing For Enterprise Applications </br>
+* PluralSight: Angular Services </br>
+* PluralSight: Rapid Angular Training </br>
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
 
