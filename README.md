@@ -13,4 +13,4 @@
 * PluralSight: Rapid Angular Training </br>
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
-
+* PluralSight: SQL </br>
