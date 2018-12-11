@@ -15,3 +15,5 @@
 * PluralSight: Angular Foundations </br>
 * PluralSight: SQL </br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
+* PluralSight: Fiddler </br>
+
