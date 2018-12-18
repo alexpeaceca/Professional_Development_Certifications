@@ -14,6 +14,6 @@
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
 * PluralSight: SQL </br>
-* PluralSight: Debugging Using Fiddler Chrome DevTools </br>
+* PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
 
