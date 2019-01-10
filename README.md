@@ -13,6 +13,7 @@
 * PluralSight: Rapid Angular Training </br>
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
+* PluralSight: JIRA 2018 </br>
 * PluralSight: SQL </br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
