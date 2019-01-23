@@ -13,6 +13,7 @@
 * PluralSight: Rapid Angular Training </br>
 * PluralSight: Angular Big Picture </br>
 * PluralSight: Angular Foundations </br>
+* PluralSight: Scrum Development with JIRA and Agile </br>
 * PluralSight: JIRA 2018 </br>
 * PluralSight: PMI-ACP: Agile Project Management </br>
 * PluralSight: PMI-ACP: Agile Methodologies </br>
