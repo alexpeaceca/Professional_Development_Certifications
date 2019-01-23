@@ -15,6 +15,7 @@
 * PluralSight: Angular Foundations </br>
 * PluralSight: JIRA 2018 </br>
 * PluralSight: PMI-ACP: Agile Project Management </br>
+* PluralSight: PMI-ACP: Agile Methodologies </br>
 * PluralSight: SQL </br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
