@@ -17,7 +17,11 @@
 * PluralSight: JIRA 2018 </br>
 * PluralSight: PMI-ACP: Agile Project Management </br>
 * PluralSight: PMI-ACP: Agile Methodologies </br>
+* PluralSight: PMI-ACP: Value-Driven Delivery and Adaptive Planning </br>
+* PluralSight: Staying Agile in the Midst of Change </br>
+* PluralSight: Generational Leadership </br>
 * PluralSight: SQL </br>
+* PluralSight: SQL Server Performance with Compression</br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
 
