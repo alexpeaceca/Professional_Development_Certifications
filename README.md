@@ -18,10 +18,12 @@
 * PluralSight: PMI-ACP: Agile Project Management </br>
 * PluralSight: PMI-ACP: Agile Methodologies </br>
 * PluralSight: PMI-ACP: Value-Driven Delivery and Adaptive Planning </br>
-* PluralSight: PMI-ACP:  </br>
-* PluralSight: PMI-ACP:  </br>
-* PluralSight: PMI-ACP:  </br>
-* PluralSight: PMI-ACP:  </br>
+* PluralSight: PMI-ACP: Agile Estimation, Metrics, and Risk Management</br>
+* PluralSight: PMI-ACP: Agile Communications Practics and Agile Tools</br>
+* PluralSight: PMI-ACP: Agile Development, Quailty, and Testing Practices</br>
+* PluralSight: PMI-ACP: Agile Team Dynamics, Performance, and Leadership</br>
+* PluralSight: PMI-ACP: Scaling Agile to an Enterprise Level</br>
+* PluralSight: PMI-ACP: Continuous Improvement</br>
 * PluralSight: Staying Agile in the Midst of Change </br>
 * PluralSight: Generational Leadership </br>
 * PluralSight: SQL </br>
