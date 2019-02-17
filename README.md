@@ -17,7 +17,7 @@
 * PluralSight: JIRA 2018 </br>
 * PluralSight: PMI-ACP: Agile Project Management </br>
 * PluralSight: PMI-ACP: Agile Methodologies </br>
-* PluralSight: PMI-ACP: Value-Driven Delivery and Adaptive Planning </br>
+* PluralSight: PMI-ACP: Value Driven Delivery and Adaptive Planning </br>
 * PluralSight: PMI-ACP: Agile Estimation, Metrics, and Risk Management</br>
 * PluralSight: PMI-ACP: Agile Communications Practics and Agile Tools</br>
 * PluralSight: PMI-ACP: Agile Development, Quailty, and Testing Practices</br>
