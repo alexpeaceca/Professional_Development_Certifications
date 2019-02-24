@@ -26,6 +26,7 @@
 * PluralSight: PMI-ACP: Continuous Improvement</br>
 * PluralSight: Staying Agile in the Midst of Change </br>
 * PluralSight: Generational Leadership </br>
+* PluralSight: Boosting Innovation: How Leaders Can Create Innovative Teams
 * PluralSight: SQL </br>
 * PluralSight: SQL Server Performance with Compression</br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
