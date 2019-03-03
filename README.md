@@ -1,6 +1,7 @@
 # Professional Development Certifications</br>
 
 
+# Technical Training
 * Microsoft Academy MVA: ASP.Net Core Advanced </br>
 * Microsoft Academy MVA: ASP.Net Core Intermediate </br>
 * Microsoft Academy MVA: ASP.Net Core Beginner </br>
@@ -8,7 +9,6 @@
 * Microsoft Academy MVA: JSON C# </br>
 * Microsoft Academy MVA: Programming in C# </br>
 * Microsoft Academy MVA: C# Fundamentals </br>
-Technical
 * PluralSight: C# Unit Testing For Enterprise Applications </br>
 * PluralSight: Angular Services </br>
 * PluralSight: Rapid Angular Training </br>
@@ -18,7 +18,7 @@ Technical
 * PluralSight: SQL Server Performance with Compression</br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
-Agile
+# Agile Training
 * PluralSight: Scrum Development with JIRA and Agile </br>
 * PluralSight: Play by Play: Becoming a More Effective Scrum Master </br>
 * PluralSight: JIRA 2018 </br>
@@ -33,7 +33,7 @@ Agile
 * PluralSight: PMI-ACP Training: Scaling Agile to an Enterprise Level</br>
 * PluralSight: PMI-ACP Training: Continuous Improvement</br>
 * PluralSight: Staying Agile in the Midst of Change </br>
-Soft Skills
+# Soft Skills
 * PluralSight: Generational Leadership </br>
 * PluralSight: Boosting Innovation: How Leaders Can Create Innovative Teams </br>
 * PluralSight: How to have Difficult Conversations </br>
