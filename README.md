@@ -1,7 +1,7 @@
 # Professional Development Certifications</br>
 
 
-## Technical Training
+## Technical
 * Microsoft Academy MVA: ASP.Net Core Advanced </br>
 * Microsoft Academy MVA: ASP.Net Core Intermediate </br>
 * Microsoft Academy MVA: ASP.Net Core Beginner </br>
