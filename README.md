@@ -36,7 +36,7 @@
 
 ## Soft Skills
 * PluralSight: Generational Leadership </br>
-* PluralSight: Boosting Innovation: How Leaders Can Create Innovative Teams </br>
+* PluralSight: Boosting Innovation How Leaders Can Create Innovative Teams </br>
 * PluralSight: How to have Difficult Conversations </br>
 
 
