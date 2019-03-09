@@ -18,7 +18,7 @@
 * PluralSight: SQL Server Performance with Compression</br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
-## Agile Training
+## Agile 
 * PluralSight: Scrum Development with JIRA and Agile </br>
 * PluralSight: Staying Agile in the Midst of Change </br>
 * PluralSight: Play by Play: Becoming a More Effective Scrum Master </br>
@@ -35,8 +35,11 @@
 * PluralSight: PMI-ACP Training: Continuous Improvement</br>
 
 ## Soft Skills
+* PluralSight: How to have Difficult Conversations </br>
+* PluralSight: Becoming a Better Listener </br>
+* PluralSight: Effective Email Communication </br>
 * PluralSight: Generational Leadership </br>
 * PluralSight: Boosting Innovation How Leaders Can Create Innovative Teams </br>
-* PluralSight: How to have Difficult Conversations </br>
+
 
 
