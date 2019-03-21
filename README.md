@@ -16,6 +16,7 @@
 * PluralSight: Angular Foundations </br>
 * PluralSight: SQL </br>
 * PluralSight: SQL Server Performance with Compression</br>
+* PluralSight: Networking Concepts and Protocols</br>
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
 ## Agile 
