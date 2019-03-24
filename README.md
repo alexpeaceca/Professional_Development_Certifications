@@ -19,7 +19,7 @@
 * PluralSight: Debugging Fiddler Chrome DevTools </br>
 * PluralSight: Fiddler </br>
 * PluralSight: Networking Concepts and Protocols</br>
-* PluralSight: Analyzing Network WireShark</br>
+* PluralSight: Analyzing Network with WireShark</br>
 ## Agile 
 * PluralSight: Scrum Development with JIRA and Agile </br>
 * PluralSight: Staying Agile in the Midst of Change </br>
