@@ -21,7 +21,7 @@
 * PluralSight: Networking Concepts and Protocols</br>
 * PluralSight: Enterprise Network Infrastructure</br>
 * PluralSight: Network Management and Operations</br>
-* PluralSight: Analyzing Networks with WireShark</br>
+* PluralSight: Analyzing Networks WireShark</br>
 
 ## Agile 
 * PluralSight: Scrum Development with JIRA and Agile </br>
