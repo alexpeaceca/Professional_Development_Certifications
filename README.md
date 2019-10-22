@@ -43,7 +43,7 @@
 * PluralSight: How to have Difficult Conversations </br>
 * PluralSight: Becoming a Better Listener </br>
 * PluralSight: Effective Email Communication </br>
-* PluralSight: Generational Leadership </br>
+* PluralSight: Generational Leadership . </br>
 * PluralSight: Boosting Innovation: How Leaders Can Create Innovative Teams </br>
 
 
