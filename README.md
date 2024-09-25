@@ -1,5 +1,7 @@
 # Professional Development Course Certificates</br>
 
+## Certifications
+* International Software Testing Qualifications Board | ISTBQ Certified QA Tester 
 
 ## Technical
 * PluralSight: C# Unit Testing For Enterprise Applications </br>
